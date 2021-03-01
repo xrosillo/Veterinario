@@ -62,4 +62,14 @@ public class Mascota implements Serializable{
 	private void setID(long iD) {
 		this.ID = iD;
 	}
+	
+	public boolean repira() {
+		//aquí vendría el código para la respiración
+		return true;
+	}
+
+	public boolean come(float cantidad) {
+		//aquí vendría el código para ver lo que comen
+		return true;
+	}
 }
