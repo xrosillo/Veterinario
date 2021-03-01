@@ -71,5 +71,6 @@ public class Mascota implements Serializable{
 	public boolean come(float cantidad) {
 		//aquí vendría el código para ver lo que comen
 		return true;
+		
 	}
 }
